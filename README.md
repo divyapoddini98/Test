@@ -2,6 +2,6 @@
 def add():
   "added"
 def modify():
-   "modified by divya"
+   return modify
 def delete():
    return delete
